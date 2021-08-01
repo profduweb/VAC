@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Profduweb",
+    "description": "",
+    "home_page_url": "https://profduweb.com",
+    "feed_url": "https://profduweb.com/feed.json",
+    "user_comment": "",
+    "icon": "https://profduweb.com/media/website/avatar-2.png",
+    "author": {
+        "name": "Mat"
+    },
+    "items": [
+        {
+            "id": "https://profduweb.com/mes-podcasts/",
+            "url": "https://profduweb.com/mes-podcasts/",
+            "title": "Mes podcasts",
+            "summary": "Apple, différemment Est une émission audio sur l'écosystème Apple. On y parle des produits et des usages. En passant pas l'iPhone, l'iPad, l'Apple Watch, l'Apple TV, le Mac et tous les autres accessoires. Je fais cette émission avec mon amie Audrey Couleau qui est formatrice&hellip;",
+            "content_html": "<h4>Apple, différemment</h4>\n<p>Est une émission audio sur l'écosystème Apple. On y parle des produits et des usages. En passant pas l'iPhone, l'iPad, l'Apple Watch, l'Apple TV, le Mac et tous les autres accessoires. Je fais cette émission avec mon amie Audrey Couleau qui est formatrice et autrice sur les produits Apple. Chaque moi nous parlons de l'actualité, des produits et de l'histoire de la marque. </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://profduweb.com/media/posts/1/AD_LOGO_2021_OK-2.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://profduweb.com/media/posts/1/responsive/AD_LOGO_2021_OK-2-xs.jpg 300w ,https://profduweb.com/media/posts/1/responsive/AD_LOGO_2021_OK-2-sm.jpg 480w ,https://profduweb.com/media/posts/1/responsive/AD_LOGO_2021_OK-2-md.jpg 768w ,https://profduweb.com/media/posts/1/responsive/AD_LOGO_2021_OK-2-lg.jpg 1024w ,https://profduweb.com/media/posts/1/responsive/AD_LOGO_2021_OK-2-xl.jpg 1360w ,https://profduweb.com/media/posts/1/responsive/AD_LOGO_2021_OK-2-2xl.jpg 1600w\"  alt=\"Applediff\" width=\"400\" height=\"400\"></figure>\n<figure class=\"post__image post__image--center\"><a href=\"https://anchor.fm/applediff\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\"  src=\"https://profduweb.com/media/posts/1/apple-podcasts-logo-fr.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-xs.png 300w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-sm.png 480w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-md.png 768w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-lg.png 1024w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-xl.png 1360w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2xl.png 1600w\"  alt=\"Écouter sur Apple Podcasts\" width=\"300\" height=\"79\"></figure></a></p>\n<p> </p>",
+            "image": "https://profduweb.com/media/posts/1/jonathan-velasquez-c1ZN57GfDB0-unsplash.jpg",
+            "author": {
+                "name": "Mat"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-01T16:53:56-04:00",
+            "date_modified": "2021-08-01T17:13:03-04:00"
+        }
+    ]
+}
