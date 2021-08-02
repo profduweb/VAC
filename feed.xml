@@ -3,94 +3,111 @@
     <title>Profduweb</title>
     <link href="https://profduweb.com/feed.xml" rel="self" />
     <link href="https://profduweb.com" />
-    <updated>2021-08-02T09:27:21-04:00</updated>
+    <updated>2021-08-02T09:33:21-04:00</updated>
     <author>
         <name>Mat</name>
     </author>
     <id>https://profduweb.com</id>
 
     <entry>
-        <title>Mes guides</title>
+        <title>WWDC 21 • Des nouveautés pour toutes les générations !</title>
         <author>
             <name>Mat</name>
         </author>
-        <link href="https://profduweb.com/mes-guides/"/>
-        <id>https://profduweb.com/mes-guides/</id>
+        <link href="https://profduweb.com/wwdc-21-des-nouveautes-pour-toutes-les-generations/"/>
+        <id>https://profduweb.com/wwdc-21-des-nouveautes-pour-toutes-les-generations/</id>
+            <category term="podcast"/>
+            <category term="applediff"/>
 
-        <updated>2021-08-01T20:05:43-04:00</updated>
+        <updated>2021-08-02T09:33:21-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://profduweb.com/media/posts/3/IMG_0764.JPG" alt="" />
-                    Créer un podcast professionnel Ce guide va vous permettre de démystifier la création des podcasts. Du générique, jusqu’aux micros en passant sur l’hébergement. Ce guide est un résumé de plusieurs années de dur labeur. Pleins de trucs et d’astuces pour créer plus vite et mieux&hellip;
+                        <img src="https://profduweb.com/media/posts/5/4882797-1625306663074-7c5b1e46d8168.jpg" alt="" />
+                     Nouvel épisode du podcast "Apple, différemment" est en ligne avec mon ami Audrey. Quoi de neuf ? Merci pour vos commentaires 5 étoiles 😍 Mat prend des cours SwiftUI sur Udemy 90 % des mails ouverts sur mobile le sont sur un iPhone NightWatch, transforme&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://profduweb.com/media/posts/3/IMG_0764.JPG" alt="" />
-                <h4 class="product-header__title book-header__title">Créer un podcast professionnel</h4>
-<figure class="post__image post__image--center"><a href="https://books.apple.com/fr/book/cr%C3%A9er-un-podcast/id1465525901?l=fr" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://profduweb.com/media/posts/3/Capture-decran-le-2021-08-01-a-19.23.08.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.23.08-xs.png 300w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.23.08-sm.png 480w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.23.08-md.png 768w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.23.08-lg.png 1024w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.23.08-xl.png 1360w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.23.08-2xl.png 1600w"  alt="" width="220" height="288"></figure></a></p>
-<p>Ce guide va vous permettre de démystifier la création des podcasts. Du générique, jusqu’aux micros en passant sur l’hébergement. Ce guide est un résumé de plusieurs années de dur labeur. Pleins de trucs et d’astuces pour créer plus vite et mieux que les autres. <a href="https://books.apple.com/fr/book/cr%C3%A9er-un-podcast/id1465525901?l=fr" target="_blank" rel="noopener noreferrer">Vous pouvez l'acheter en suivant ce lien &gt;&gt;</a></p>
-<hr>
-<h4 class="product-header__title book-header__title">Techno-zen</h4>
-<figure class="post__image post__image--center"><a href="https://books.apple.com/fr/book/techno-zen/id1517422375?l=fr" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://profduweb.com/media/posts/3/Capture-decran-le-2021-08-01-a-19.25.08.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.25.08-xs.png 300w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.25.08-sm.png 480w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.25.08-md.png 768w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.25.08-lg.png 1024w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.25.08-xl.png 1360w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.25.08-2xl.png 1600w"  alt="" width="218" height="285"></figure></a></p>
-<p>Ce guide vous permet de vous familiariser sur la sécurité informatique. À la fin, vous serez en mesure de vous protéger et d’apprécier Internet sans avoir de drôles d’impressions. J'ai réalisé ce guide pour que puissiez utiliser pleinement les outils technologiques. <a href="https://books.apple.com/fr/book/techno-zen/id1517422375?l=fr" target="_blank" rel="noopener noreferrer">Vous pouvez l'acheter en suivant ce lien &gt;&gt;</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Me joindre</title>
-        <author>
-            <name>Mat</name>
-        </author>
-        <link href="https://profduweb.com/me-joindre/"/>
-        <id>https://profduweb.com/me-joindre/</id>
-
-        <updated>2021-08-01T20:05:18-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://profduweb.com/media/posts/2/9CB2C9C9-24C2-460A-A156-D657587DCDC7.jpg" alt="" />
-                    Si vous souhaitez me joindre ou réagir à l'une de mes créations, vous pouvez le faire via les messages privés de Twitter ou laisser un message en bas de cette page. Je suis aussi ailleurs, mais je ne suis pas très présent. Priorisé Twitter qui&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://profduweb.com/media/posts/2/9CB2C9C9-24C2-460A-A156-D657587DCDC7.jpg" alt="" />
-                <p>Si vous souhaitez me joindre ou réagir à l'une de mes créations, vous pouvez le faire via les messages privés de Twitter ou laisser un message en bas de cette page. </p>
-<h4>Mes comptes sur internet </h4>
-<ul>
-<li><a href="https://twitter.com/profduweb" target="_blank" rel="noopener noreferrer">Twitter</a></li>
-<li><a href="https://instagram.com/profduweb" target="_blank" rel="noopener noreferrer">Instagram</a></li>
-<li><a href="https://www.youtube.com/channel/UCNzUonmxxvG-HIqOC3S7Thw" target="_blank" rel="noopener noreferrer">Youtube</a></li>
+                    <img src="https://profduweb.com/media/posts/5/4882797-1625306663074-7c5b1e46d8168.jpg" alt="" />
+                <div class="DK2WGA7X3rKos2v1AABBD _20x9t-BL2SDh7lOGEew66E" data-block="true" data-editor="ad3te" data-offset-key="dv3v3-0-0">
+<p data-offset-key="dv3v3-0-0">Nouvel épisode du podcast "Apple, différemment" est en ligne avec mon ami <a href="https://twitter.com/audreycouleau">Audrey</a>.</p>
+<figure class="post__audio"><audio loading="lazy" controls="controls" src="https://anchor.fm/s/1db32514/podcast/play/36601043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2Fb6bb8f7d-84b5-d516-1a41-9f554bd147fb.mp3" data-mce-fragment="1"></audio></figure>
+<h4 class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="dv3v3-0-0"><span data-offset-key="dv3v3-0-0">Quoi de neuf ?</span></h4>
+</div>
+<ul class="public-DraftStyleDefault-ul" data-offset-key="e74v8-0-0">
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="e74v8-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="e74v8-0-0"><span data-offset-key="e74v8-0-0">Merci pour vos commentaires 5 étoiles 😍</span></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="e3eif-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="e3eif-0-0"><span data-offset-key="e3eif-0-0">Mat prend des cours SwiftUI sur </span><a href="https://www.udemy.com/course/swiftui2020/"><span data-offset-key="e3eif-1-0">Udemy</span></a></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="8bedp-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8bedp-0-0"><a href="https://www.numerama.com/tech/718758-90-des-mails-ouverts-sur-mobile-le-sont-sur-un-iphone.html"><span data-offset-key="8bedp-0-0">90 % des mails ouverts sur mobile le sont sur un iPhone</span></a></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="fa6i2-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="fa6i2-0-0"><a href="https://nightwatch.shop/"><span data-offset-key="fa6i2-0-0">NightWatch</span></a><span data-offset-key="fa6i2-1-0">, transforme votre Apple Watch en réveil design</span></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="9gi0g-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="9gi0g-0-0"><a href="https://github.com/will-stone/browserosaurus"><span data-offset-key="9gi0g-0-0">Browserosaurus</span></a><span data-offset-key="9gi0g-1-0"> : choisir quel navigateur web utiliser sur Mac</span></div>
+</li>
 </ul>
-<p>Je suis aussi ailleurs, mais je ne suis pas très présent. Priorisé Twitter qui est mon réseau de prédilection. Sinon, devinez mon email qui commence par <em>info@</em> !</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mes podcasts</title>
-        <author>
-            <name>Mat</name>
-        </author>
-        <link href="https://profduweb.com/mes-podcasts/"/>
-        <id>https://profduweb.com/mes-podcasts/</id>
-
-        <updated>2021-08-01T20:05:15-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://profduweb.com/media/posts/1/IMG_3356.jpeg" alt="" />
-                    Apple, différemment Est une émission audio sur l'écosystème Apple. On y parle des produits et des usages. En passant pas l'iPhone, l'iPad, l'Apple Watch, l'Apple TV, le Mac et tous les autres accessoires. Je fais cette émission avec mon amie Audrey Couleau qui est formatrice&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://profduweb.com/media/posts/1/IMG_3356.jpeg" alt="" />
-                <h4>Apple, différemment</h4>
-<p>Est une émission audio sur l'écosystème Apple. On y parle des produits et des usages. En passant pas l'iPhone, l'iPad, l'Apple Watch, l'Apple TV, le Mac et tous les autres accessoires. Je fais cette émission avec mon amie <a href="https://twitter.com/audreycouleau?lang=fr" target="_blank" rel="noopener noreferrer">Audrey Couleau</a> qui est formatrice et autrice sur les produits Apple. Chaque moi nous parlons de l'actualité, des produits et de l'histoire de la marque. </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://profduweb.com/media/posts/1/logo_2021_v2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://profduweb.com/media/posts/1/responsive/logo_2021_v2-xs.jpg 300w ,https://profduweb.com/media/posts/1/responsive/logo_2021_v2-sm.jpg 480w ,https://profduweb.com/media/posts/1/responsive/logo_2021_v2-md.jpg 768w ,https://profduweb.com/media/posts/1/responsive/logo_2021_v2-lg.jpg 1024w ,https://profduweb.com/media/posts/1/responsive/logo_2021_v2-xl.jpg 1360w ,https://profduweb.com/media/posts/1/responsive/logo_2021_v2-2xl.jpg 1600w"  alt="Podcast Applediff" width="399" height="399"></figure>
-<figure class="post__image post__image--center"><a href="https://anchor.fm/applediff" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://profduweb.com/media/posts/1/apple-podcasts-logo-fr.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-xs.png 300w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-sm.png 480w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-md.png 768w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-lg.png 1024w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-xl.png 1360w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2xl.png 1600w"  alt="Écouter sur Apple Podcasts" width="300" height="79"></figure></a></p>
-<h4 class="styles__stationName___2NyaL">Relife : amélioration du quotidien et développement personnel</h4>
-<p>Un talk-show sur le lifehacking, le développement personnel. Dans ce podcast, <a href="https://twitter.com/guillaumevende" target="_blank" rel="noopener noreferrer">Guillaume Vendé</a> et <a href="https://twitter.com/profduweb" target="_blank" rel="noopener noreferrer">moi</a> nous parlent d'améliorer notre quotidien à l'aide d'outils technologiques, de livres, de documentaires et de podcasts de référence !</p>
-<figure class="post__image post__image--center"><a href="https://anchor.fm/relifepodcast" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://profduweb.com/media/posts/1/cover-relife-sociaux.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://profduweb.com/media/posts/1/responsive/cover-relife-sociaux-xs.jpg 300w ,https://profduweb.com/media/posts/1/responsive/cover-relife-sociaux-sm.jpg 480w ,https://profduweb.com/media/posts/1/responsive/cover-relife-sociaux-md.jpg 768w ,https://profduweb.com/media/posts/1/responsive/cover-relife-sociaux-lg.jpg 1024w ,https://profduweb.com/media/posts/1/responsive/cover-relife-sociaux-xl.jpg 1360w ,https://profduweb.com/media/posts/1/responsive/cover-relife-sociaux-2xl.jpg 1600w"  alt="Relife" width="400" height="400"></figure></a><a href="https://anchor.fm/relifepodcast" target="_blank" rel="noopener noreferrer"><figure class="post__image post__image--center"><img loading="lazy"  src="https://profduweb.com/media/posts/1/apple-podcasts-logo-fr-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2-xs.png 300w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2-sm.png 480w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2-md.png 768w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2-lg.png 1024w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2-xl.png 1360w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2-2xl.png 1600w"  alt="Relife" width="300" height="79"></figure></a></p>
+<div class="DK2WGA7X3rKos2v1AABBD _20x9t-BL2SDh7lOGEew66E" data-block="true" data-editor="ad3te" data-offset-key="3evor-0-0">
+<h4 class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="3evor-0-0"><span data-offset-key="3evor-0-0">WWDC 21 • Les nouveautés</span></h4>
+</div>
+<ul class="public-DraftStyleDefault-ul" data-offset-key="ce6fd-0-0">
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="ce6fd-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="ce6fd-0-0"><span data-offset-key="ce6fd-0-0">iOS 15</span></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="5v7nh-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="5v7nh-0-0"><span data-offset-key="5v7nh-0-0">iPadOS 15</span></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="4m4om-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="4m4om-0-0"><span data-offset-key="4m4om-0-0">macOS Monterey</span></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="92pik-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="92pik-0-0"><a href="https://developer.apple.com/safari/technology-preview/"><span data-offset-key="92pik-0-0">Testez la prochaine version de Safari dès maintenant</span></a></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="1mq5h-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1mq5h-0-0"><span data-offset-key="1mq5h-0-0">watchOS 8</span></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="9koeo-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="9koeo-0-0"><span data-offset-key="9koeo-0-0">AirPods, AirPods Pro, AirPods Max</span></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="bilam-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="bilam-0-0"><span data-offset-key="bilam-0-0">Vie privée &amp; sécurité</span></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="adqdb-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="adqdb-0-0"><span data-offset-key="adqdb-0-0">Santé</span></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="fam6-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="fam6-0-0"><span data-offset-key="fam6-0-0">Home</span></div>
+</li>
+</ul>
+<div class="DK2WGA7X3rKos2v1AABBD _20x9t-BL2SDh7lOGEew66E" data-block="true" data-editor="ad3te" data-offset-key="e0qmr-0-0">
+<h4 class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="e0qmr-0-0"><span data-offset-key="e0qmr-0-0">Le dossier de Mat : 3 apps canadiennes à découvrir !</span></h4>
+</div>
+<ul class="public-DraftStyleDefault-ul" data-offset-key="63ia1-0-0">
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="63ia1-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="63ia1-0-0"><a href="https://apps.apple.com/ca/app/ground-news/id1324203419?l=fr"><span data-offset-key="63ia1-0-0">GroundNews</span></a></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="6ncra-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="6ncra-0-0"><a href="https://apps.apple.com/ca/app/mealime-meal-plans-recipes/id1079999103?l=fr"><span data-offset-key="6ncra-0-0">Mealime</span></a></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="fprik-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="fprik-0-0"><a href="https://apps.apple.com/ca/app/magicplan/id427424432?l=fr"><span data-offset-key="fprik-0-0">MagicPlan</span></a></div>
+</li>
+</ul>
+<div class="DK2WGA7X3rKos2v1AABBD _20x9t-BL2SDh7lOGEew66E" data-block="true" data-editor="ad3te" data-offset-key="30unm-0-0">
+<h4 class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="30unm-0-0"><span data-offset-key="30unm-0-0">La pensée personnelle du mois</span></h4>
+</div>
+<ul class="public-DraftStyleDefault-ul" data-offset-key="56v6-0-0">
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="56v6-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="56v6-0-0"><span data-offset-key="56v6-0-0">Audrey : Et si vous vous mettiez à créer du contenu ? (j'ai encore râlé 🙈)</span></div>
+</li>
+<li class="DK2WGA7X3rKos2v1AABBD public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="ad3te" data-offset-key="shd6-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="shd6-0-0"><span data-offset-key="shd6-0-0">Mat : </span><a href="https://www.imdb.com/title/tt10541088/?ref_=nv_sr_srsg_0"><span data-offset-key="shd6-1-0">La ferme de Clarkson</span></a><span data-offset-key="shd6-2-0"> + </span><a href="https://www.netflix.com/fr/title/81332418?s=i&amp;trkid=13747225&amp;vlang=fr&amp;clip=81371143"><span data-offset-key="shd6-3-0">Loin du stress avec Matthier Ricard</span></a></div>
+</li>
+</ul>
             ]]>
         </content>
     </entry>
@@ -168,6 +185,91 @@
 <div data-offset-key="ed5gs-0-0"> </div>
 <div data-offset-key="ed5gs-0-0"> </div>
 </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Mes guides</title>
+        <author>
+            <name>Mat</name>
+        </author>
+        <link href="https://profduweb.com/mes-guides/"/>
+        <id>https://profduweb.com/mes-guides/</id>
+
+        <updated>2021-08-02T09:29:07-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://profduweb.com/media/posts/3/IMG_0764.JPG" alt="" />
+                    Créer un podcast professionnel Ce guide va vous permettre de démystifier la création des podcasts. Du générique, jusqu’aux micros en passant sur l’hébergement. Ce guide est un résumé de plusieurs années de dur labeur. Pleins de trucs et d’astuces pour créer plus vite et mieux&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://profduweb.com/media/posts/3/IMG_0764.JPG" alt="" />
+                <h4 class="product-header__title book-header__title">Créer un podcast professionnel</h4>
+<figure class="post__image post__image--center"><a href="https://books.apple.com/fr/book/cr%C3%A9er-un-podcast/id1465525901?l=fr" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://profduweb.com/media/posts/3/Capture-decran-le-2021-08-01-a-19.23.08.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.23.08-xs.png 300w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.23.08-sm.png 480w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.23.08-md.png 768w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.23.08-lg.png 1024w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.23.08-xl.png 1360w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.23.08-2xl.png 1600w"  alt="" width="220" height="288"></figure></a></p>
+<p>Ce guide va vous permettre de démystifier la création des podcasts. Du générique, jusqu’aux micros en passant sur l’hébergement. Ce guide est un résumé de plusieurs années de dur labeur. Pleins de trucs et d’astuces pour créer plus vite et mieux que les autres. <a href="https://books.apple.com/fr/book/cr%C3%A9er-un-podcast/id1465525901?l=fr" target="_blank" rel="noopener noreferrer">Vous pouvez l'acheter en suivant ce lien &gt;&gt;</a></p>
+<hr>
+<h4 class="product-header__title book-header__title">Techno-zen</h4>
+<figure class="post__image post__image--center"><a href="https://books.apple.com/fr/book/techno-zen/id1517422375?l=fr" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://profduweb.com/media/posts/3/Capture-decran-le-2021-08-01-a-19.25.08.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.25.08-xs.png 300w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.25.08-sm.png 480w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.25.08-md.png 768w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.25.08-lg.png 1024w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.25.08-xl.png 1360w ,https://profduweb.com/media/posts/3/responsive/Capture-decran-le-2021-08-01-a-19.25.08-2xl.png 1600w"  alt="" width="218" height="285"></figure></a></p>
+<p>Ce guide vous permet de vous familiariser sur la sécurité informatique. À la fin, vous serez en mesure de vous protéger et d’apprécier Internet sans avoir de drôles d’impressions. J'ai réalisé ce guide pour que puissiez utiliser pleinement les outils technologiques. <a href="https://books.apple.com/fr/book/techno-zen/id1517422375?l=fr" target="_blank" rel="noopener noreferrer">Vous pouvez l'acheter en suivant ce lien &gt;&gt;</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Me joindre</title>
+        <author>
+            <name>Mat</name>
+        </author>
+        <link href="https://profduweb.com/me-joindre/"/>
+        <id>https://profduweb.com/me-joindre/</id>
+
+        <updated>2021-08-02T09:28:57-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://profduweb.com/media/posts/2/9CB2C9C9-24C2-460A-A156-D657587DCDC7.jpg" alt="" />
+                    Si vous souhaitez me joindre ou réagir à l'une de mes créations, vous pouvez le faire via les messages privés de Twitter ou laisser un message en bas de cette page. Je suis aussi ailleurs, mais je ne suis pas très présent. Priorisé Twitter qui&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://profduweb.com/media/posts/2/9CB2C9C9-24C2-460A-A156-D657587DCDC7.jpg" alt="" />
+                <p>Si vous souhaitez me joindre ou réagir à l'une de mes créations, vous pouvez le faire via les messages privés de Twitter ou laisser un message en bas de cette page. </p>
+<h4>Mes comptes sur internet </h4>
+<ul>
+<li><a href="https://twitter.com/profduweb" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+<li><a href="https://instagram.com/profduweb" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+<li><a href="https://www.youtube.com/channel/UCNzUonmxxvG-HIqOC3S7Thw" target="_blank" rel="noopener noreferrer">Youtube</a></li>
+</ul>
+<p>Je suis aussi ailleurs, mais je ne suis pas très présent. Priorisé Twitter qui est mon réseau de prédilection. Sinon, devinez mon email qui commence par <em>info@</em> !</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Mes podcasts</title>
+        <author>
+            <name>Mat</name>
+        </author>
+        <link href="https://profduweb.com/mes-podcasts/"/>
+        <id>https://profduweb.com/mes-podcasts/</id>
+
+        <updated>2021-08-02T09:28:47-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://profduweb.com/media/posts/1/IMG_3356.jpeg" alt="" />
+                    Apple, différemment Est une émission audio sur l'écosystème Apple. On y parle des produits et des usages. En passant pas l'iPhone, l'iPad, l'Apple Watch, l'Apple TV, le Mac et tous les autres accessoires. Je fais cette émission avec mon amie Audrey Couleau qui est formatrice&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://profduweb.com/media/posts/1/IMG_3356.jpeg" alt="" />
+                <h4>Apple, différemment</h4>
+<p>Est une émission audio sur l'écosystème Apple. On y parle des produits et des usages. En passant pas l'iPhone, l'iPad, l'Apple Watch, l'Apple TV, le Mac et tous les autres accessoires. Je fais cette émission avec mon amie <a href="https://twitter.com/audreycouleau?lang=fr" target="_blank" rel="noopener noreferrer">Audrey Couleau</a> qui est formatrice et autrice sur les produits Apple. Chaque moi nous parlons de l'actualité, des produits et de l'histoire de la marque. </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://profduweb.com/media/posts/1/logo_2021_v2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://profduweb.com/media/posts/1/responsive/logo_2021_v2-xs.jpg 300w ,https://profduweb.com/media/posts/1/responsive/logo_2021_v2-sm.jpg 480w ,https://profduweb.com/media/posts/1/responsive/logo_2021_v2-md.jpg 768w ,https://profduweb.com/media/posts/1/responsive/logo_2021_v2-lg.jpg 1024w ,https://profduweb.com/media/posts/1/responsive/logo_2021_v2-xl.jpg 1360w ,https://profduweb.com/media/posts/1/responsive/logo_2021_v2-2xl.jpg 1600w"  alt="Podcast Applediff" width="399" height="399"></figure>
+<figure class="post__image post__image--center"><a href="https://anchor.fm/applediff" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://profduweb.com/media/posts/1/apple-podcasts-logo-fr.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-xs.png 300w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-sm.png 480w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-md.png 768w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-lg.png 1024w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-xl.png 1360w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2xl.png 1600w"  alt="Écouter sur Apple Podcasts" width="300" height="79"></figure></a></p>
+<h4 class="styles__stationName___2NyaL">Relife : amélioration du quotidien et développement personnel</h4>
+<p>Un talk-show sur le lifehacking, le développement personnel. Dans ce podcast, <a href="https://twitter.com/guillaumevende" target="_blank" rel="noopener noreferrer">Guillaume Vendé</a> et <a href="https://twitter.com/profduweb" target="_blank" rel="noopener noreferrer">moi</a> nous parlent d'améliorer notre quotidien à l'aide d'outils technologiques, de livres, de documentaires et de podcasts de référence !</p>
+<figure class="post__image post__image--center"><a href="https://anchor.fm/relifepodcast" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://profduweb.com/media/posts/1/cover-relife-sociaux.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://profduweb.com/media/posts/1/responsive/cover-relife-sociaux-xs.jpg 300w ,https://profduweb.com/media/posts/1/responsive/cover-relife-sociaux-sm.jpg 480w ,https://profduweb.com/media/posts/1/responsive/cover-relife-sociaux-md.jpg 768w ,https://profduweb.com/media/posts/1/responsive/cover-relife-sociaux-lg.jpg 1024w ,https://profduweb.com/media/posts/1/responsive/cover-relife-sociaux-xl.jpg 1360w ,https://profduweb.com/media/posts/1/responsive/cover-relife-sociaux-2xl.jpg 1600w"  alt="Relife" width="400" height="400"></figure></a><a href="https://anchor.fm/relifepodcast" target="_blank" rel="noopener noreferrer"><figure class="post__image post__image--center"><img loading="lazy"  src="https://profduweb.com/media/posts/1/apple-podcasts-logo-fr-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2-xs.png 300w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2-sm.png 480w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2-md.png 768w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2-lg.png 1024w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2-xl.png 1360w ,https://profduweb.com/media/posts/1/responsive/apple-podcasts-logo-fr-2-2xl.png 1600w"  alt="Relife" width="300" height="79"></figure></a></p>
             ]]>
         </content>
     </entry>
