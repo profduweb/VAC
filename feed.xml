@@ -3,12 +3,43 @@
     <title>Site de Mat (Profduweb)</title>
     <link href="https://profduweb.com/feed.xml" rel="self" />
     <link href="https://profduweb.com" />
-    <updated>2021-08-02T10:23:45-04:00</updated>
+    <updated>2021-08-05T07:25:33-04:00</updated>
     <author>
         <name>Mat</name>
     </author>
     <id>https://profduweb.com</id>
 
+    <entry>
+        <title>Comment TÉLÉCHARGER des vidéos ou des listes YOUTUBE sur Mac ou Windows, automatiquement ?</title>
+        <author>
+            <name>Mat</name>
+        </author>
+        <link href="https://profduweb.com/comment-telecharger-des-videos-ou-des-listes-youtube-sur-mac-ou-windows-automatiquement/"/>
+        <id>https://profduweb.com/comment-telecharger-des-videos-ou-des-listes-youtube-sur-mac-ou-windows-automatiquement/</id>
+            <category term="Vidéo"/>
+
+        <updated>2021-08-05T07:25:33-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://profduweb.com/media/posts/10/1.png" alt="" />
+                     Dans cette vidéo je vous présente un logiciel que j'utilise depuis de nombreuses années pour télécharger des vidéos Youtube. Ses avantages sont : Il ne coûte que 20$ US et est compatible Windows et Mac. https://www.airy-youtube-downloader.com/ 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://profduweb.com/media/posts/10/1.png" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/waDld51pDsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<p>Dans cette vidéo je vous présente un logiciel que j'utilise depuis de nombreuses années pour télécharger des vidéos Youtube. Ses avantages sont :</p>
+<ul>
+<li>Téléchargement d'une vidéo dans la qualité que vous souhaitez.</li>
+<li>Peut convertir tous les vidéos en format audio mp3</li>
+<li>Télécharge des listes complètes de vidéos</li>
+</ul>
+<p>Il ne coûte que 20$ US et est compatible Windows et Mac.</p>
+<p><a href="https://www.airy-youtube-downloader.com/">https://www.airy-youtube-downloader.com/</a> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>WWDC 21 • Des nouveautés pour toutes les générations !</title>
         <author>
