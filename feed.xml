@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Mat, alias « prof du web »</title>
+    <title>Mat</title>
     <link href="https://profduweb.com/feed.xml" rel="self" />
     <link href="https://profduweb.com" />
-    <updated>2021-09-06T19:25:36-04:00</updated>
+    <updated>2021-09-07T10:58:40-04:00</updated>
     <author>
         <name>Mat</name>
     </author>
@@ -42,16 +42,16 @@
         <id>https://profduweb.com/gagnez-du-temps-avec-le-bon-navigateur-web-avec-un-macbook-pro-macbook-air-et-imac/</id>
             <category term="Vidéo"/>
 
-        <updated>2021-09-06T19:23:28-04:00</updated>
+        <updated>2021-09-07T10:58:40-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://profduweb.com/media/posts/16/0.jpeg" alt="" />
+                        <img src="https://profduweb.com/media/posts/16/Vignette-Youtube-3.png" alt="" />
                     Pourquoi avoir à choisir un navigateur Web par défaut alors qu'on peut tous les choisir? C'est ce que propose Browserosaurus un utilitaire qui vous permet de choisir à chaque fois que vous ouvrez un lien. Vous pouvez le télécharger ici : https://github.com/will-stone/browser... #apple #technologie #Browserosaurus&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://profduweb.com/media/posts/16/0.jpeg" alt="" />
+                    <img src="https://profduweb.com/media/posts/16/Vignette-Youtube-3.png" alt="" />
                 <p><span class="style-scope yt-formatted-string" dir="auto">Pourquoi avoir à choisir un navigateur Web par défaut alors qu'on peut tous les choisir? C'est ce que propose Browserosaurus un utilitaire qui vous permet de choisir à chaque fois que vous ouvrez un lien. Vous pouvez le télécharger ici : </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa3ZqaDB5WjRpV3Z6aWc3OHAxQ0dhWUJTR2hWQXxBQ3Jtc0trMmxtS3hqOHdsZ0RWd21Ba3RubHNDV1ZNc0RuenFtRDFCbXJyWFNjVnJDamlYaDMwTktSamZpT0JyNDEzTzNFc3hxZ09hRjBfZWZQYXZHSkItTWduOEM2YUF1T1c3Nmo4eW00SVMwZkNobm9IOV9MRQ&amp;q=https%3A%2F%2Fgithub.com%2Fwill-stone%2Fbrowserosaurus" rel="nofollow noopener" target="_blank" dir="auto">https://github.com/will-stone/browser...</a></p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/jkKXQhgMsTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <p><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/hashtag/apple" dir="auto">#apple</a> <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/hashtag/technologie" dir="auto">#technologie</a> <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/hashtag/browserosaurus" dir="auto">#Browserosaurus</a> <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/hashtag/safari" dir="auto">#Safari</a> <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/hashtag/chrome" dir="auto">#Chrome</a> <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/hashtag/firefox" dir="auto">#Firefox</a></p>
